@@ -5,3 +5,7 @@
 ```python
 x += "22"
 ```
+
+- [ ] Open file
+- [ ] Make changes
+- [ ] Commit changes
